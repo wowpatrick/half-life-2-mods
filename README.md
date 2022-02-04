@@ -2,6 +2,14 @@
 
 List of high quality Half-Life 2 Single Player Mods
 
+## Dark interval [in development]
+
+https://www.moddb.com/mods/dark-interval
+
+## Antenna [in development]
+
+https://www.moddb.com/mods/antenna/
+
 ## Forest train
 
 https://www.runthinkshootlive.com/posts/forest-train/
@@ -25,3 +33,7 @@ https://www.runthinkshootlive.com/posts/downfall/
 ## Penetration
 
 https://www.moddb.com/mods/penetration/
+
+## Maps
+
+https://gamebanana.com/mods/download/61896
